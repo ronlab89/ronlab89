@@ -2,7 +2,9 @@
 ## Frontend developer and Web designer
 
 I'm a frontend developer, web designer and systems engineer. I consider myself passionate about technology, I am self-taught, freelancer and entrepreneur.
+
 I develop websites and web applications with a lot of detail in the design and functionality.
+
 My goal is to continue growing as a professional and improve my programming skills to climb within the world of web development.
 
 ***
